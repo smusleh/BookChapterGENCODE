@@ -1,0 +1,1 @@
+Use download_human_GFF3_Annotation_Files.sh to downl oad Human and Mouse GFF3 annotation files
