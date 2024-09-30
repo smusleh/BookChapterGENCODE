@@ -1,2 +1,4 @@
 # BookChapterGENCODE
 This repo includes work artifacts of the Book Chapter - Practical Guide to Life Science Databases
+
+The GENCODE project provides comprehensive and highly accurate annotation of functional elements in human and mouse genomes for the benefit of biomedical and genomic research. This repository offers a user guide to help users explore GENCODE annotations efficiently. It includes a brief history of GENCODE, an overview of its database, and workflows for extracting and utilizing GENCODE resources for downstream analysis. The guide covers annotation methods for human and mouse genomes, explains file formats (GTF and GFF3), and provides instructions for accessing data via the GENCODE portal, Ensembl Genome Browser, and UCSC Genome Browser. Additionally, it includes use cases and source code to assist users in leveraging GENCODE annotations for research purposes.
